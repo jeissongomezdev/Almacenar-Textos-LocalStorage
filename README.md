@@ -1,0 +1,1 @@
+# Almacenar textos en localStorage
